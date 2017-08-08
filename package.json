@@ -1,0 +1,13 @@
+{
+  "name": "isochronic-tuas-west",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yin Shanyang <me@yinshanyang.com> (http://yinshanyang.com)",
+  "license": "ISC",
+  "dependencies": {}
+}
